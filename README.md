@@ -1,4 +1,4 @@
-# Saudi-Ecommerce-Python-With-Data-Analysis
+# Saudi-Ecommerce-Analysis-With-Python and PowerBI
 
 ## Project overview
 This project demonstrates **Python data analysis** using a small synthetic e-commerce dataset. It is designed as a portfolio project and future practice reference.
@@ -26,3 +26,28 @@ Python, pandas, Matplotlib, Google Colab / Jupyter Notebook.
 ## Dataset note
 This is **synthetic practice data**, not official Saudi market data. Do not present results as real Saudi e-commerce market statistics.
 
+
+
+#POWERBI DASHBOARD
+
+
+### Saudi E-Commerce Sales and Customer Analytics
+
+This Power BI dashboard extends the Python data analysis project by presenting e-commerce performance through interactive visualizations and business KPIs.
+
+**Dashboard features**
+- Total Sales, Total Profit, Total Orders, Average Order Value, and Profit Margin.
+- Sales analysis by product category.
+- Order distribution across Saudi cities.
+- Order status analysis.
+- Monthly sales trends.
+- Sales by payment method.
+- Top 10 products by performance.
+
+**Project files**
+- Python analysis: `Saudi_Ecommerce_Python_Data_Analysis.ipynb`
+- Power BI dashboard report: `PowerBI/Saudi-Ecommerce-PowerBI-Dashboard.pdf`
+
+**Tools:** Python, pandas, Matplotlib, Microsoft Power BI.
+
+**Note:** The project uses synthetic practice data and should not be interpreted as official Saudi e-commerce market statistics.
