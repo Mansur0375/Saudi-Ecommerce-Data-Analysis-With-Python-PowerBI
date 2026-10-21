@@ -68,9 +68,6 @@ The dashboard PDF is included in the `PowerBI` folder. If the original Power BI 
 - Power BI dashboard reporting
 - KPI analysis and presentation
 
-<img width="1192" height="688" alt="image" src="https://github.com/user-attachments/assets/3c9b9255-5218-4abe-a707-930c471eeae7" />
-
-
 ## Dataset Note
 
 This project uses **synthetic practice data**, not official Saudi market data. Dashboard results should not be presented as real Saudi e-commerce market statistics.
